@@ -1,0 +1,2 @@
+rootProject.name='FitCode -Fitter than yesterday'
+include ':app'
